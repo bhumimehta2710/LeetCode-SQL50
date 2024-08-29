@@ -21,6 +21,7 @@ I would like to thank the LeetCode community for providing valuable resources an
 
 | Problem No. | Problem Title | Difficulty | Status | Solution Link |
 |---|---|---|---|---|
-| 1757 | Recyclable and Low Fat Products | Easy | Solved | [Link to your solution](https://github.com/bhumimehta2710/LeetCode-SQL50/blob/main/Select/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql) |
+| 1757 | Recyclable and Low Fat Products | Easy | Solved | [Link to solution](https://github.com/bhumimehta2710/LeetCode-SQL50/blob/main/Select/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql) |
+| 584 | Find Customer Referee | Easy | Solved | [Link to solution](https://github.com/bhumimehta2710/LeetCode-SQL50/blob/main/Select/584.%20Find%20Customer%20Referee.sql) |
 
 
